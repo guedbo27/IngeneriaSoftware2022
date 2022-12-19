@@ -11,7 +11,7 @@
 //a
 //b
 //abab
-//RamaTest
+//RamaTest_2
 
 float fixedTick = 1.f /60;
 LARGE_INTEGER counter;
